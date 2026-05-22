@@ -1,0 +1,4 @@
+interface:
+  display_name: "寓言概念解释"
+  short_description: "把抽象概念讲成寓言故事，并附概念解析、映射说明与检验问题"
+  default_prompt: "Use $fable-concept-explainer to explain the concept of 机会成本 with an allegorical story, a concept mapping, and two concrete test questions."
