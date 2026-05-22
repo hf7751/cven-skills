@@ -38,7 +38,6 @@ $skill-installer install https://github.com/hf7751/cven-skills/tree/main/skills/
 
 在 CC Switch 的 Skills 仓库管理里添加：
 
-- Owner: `<your-github-name>`
 - Owner: `hf7751`
 - Name: `cven-skills`
 - Branch: `main`
